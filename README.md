@@ -10,3 +10,4 @@ Same thing with ntdll.dll!NtTraceEvent
 How to compile: Open in visual studio and compile, then inject the DLL in any .NET app (PowerShell.exe etc)
 
 NOTE: Some AVs have custom AMSI for .NET so this isn't 100% effective.
+
